@@ -1,0 +1,12 @@
+[ 
+  {
+      "id":"Sneaker",
+      "titulo":"Sneakers",
+      "imagen":"image-product-1.jpg",
+      "categoria":{
+        "nombre":"men",
+        "id":"sneakers"
+      },
+      "precio":125
+    } 
+  ]
